@@ -1,4 +1,4 @@
-# xPayapi.com - WHMCS Payment Gateway Module
+# xPayapi.com - WHMCS Crypto Payment Gateway Module
 
 This module integrates the xPayapi.com payment gateway with WHMCS, providing a secure and convenient way to process cryptocurrency payments.
 
