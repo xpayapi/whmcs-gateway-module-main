@@ -1,0 +1,28 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "xpayapi",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "xPayapi",
+    "tagline": "Integrate xPayapi crypto payments with WHMCS",
+    "long": "This module provides a seamless integration of xPayapi.com crypto payment solutions with the WHMCS billing platform. It includes both client-facing and admin-facing interfaces, supports automatic invoice status updates via webhooks, recurring billing and refund processing via API.",
+    "features": [
+      "Client and admin user interfaces",
+      "Webhook-driven invoice status updates",
+      "Recurring billing support",
+      "Refund processing via API"
+    ]
+  },
+  "support": {
+    "homepage": "https:\/\/xpayapi.com\/",
+    "docs_url": "https:\/\/xpayapi.com\/developers"
+  },
+  "authors": [
+    {
+      "name": "xPayapi",
+      "homepage": "https:\/\/xpayapi.com\/"
+    }
+  ]
+}
