@@ -84,7 +84,7 @@ class xPayapiSCI
         ],
         "ripple" => [
             "type" => "crypto",
-            "system_id" => 22,
+            "system_id" => 38,
             "system" => "Ripple",
             "tag" => true,
             "tag_title" => "tag",
@@ -106,27 +106,28 @@ class xPayapiSCI
                 "TRX",
             ],
         ],
-        "stellar" => [
+        "ripple" => [
             "type" => "crypto",
-            "system_id" => 28,
-            "system" => "Stellar",
+            "system_id" => 38,
+            "system" => "Ripple",
             "tag" => true,
-            "tag_title" => "memo",
+            "tag_title" => "tag",
             "qr_prefix" => "",
-            "display_name" => "Stellar",
+            "display_name" => "XRP",
             "currency_list" => [
-                "XLM",
+                "XRP",
             ],
         ],
-        "binancecoin" => [
+        "solana" => [
             "type" => "crypto",
-            "system_id" => 25,
-            "system" => "BinanceCoin",
-            "tag" => false,
+            "system_id" => 43,
+            "system" => "Solana",
+            "tag" => true,
+            "tag_title" => "tag",
             "qr_prefix" => "",
-            "display_name" => "BNB",
+            "display_name" => "SOL",
             "currency_list" => [
-                "BNB",
+                "SOL",
             ],
         ],
         "tron_trc20" => [
